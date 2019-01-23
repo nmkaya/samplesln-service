@@ -17,6 +17,9 @@ namespace SampleSln.Service
         string GetData(int value);
 
         [OperationContract]
+        string GetCustomData(int value);
+
+        [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
         // TODO: Add your service operations here
