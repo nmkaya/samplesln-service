@@ -1,0 +1,10 @@
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\bin\SampleSln.Service.dll.config
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\bin\SampleSln.Service.dll
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\bin\SampleSln.Service.pdb
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\bin\SampleSln.Biz.dll
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\bin\SampleSln.Biz.pdb
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\obj\Debug\SampleSln.Service.csprojAssemblyReference.cache
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\obj\Debug\SampleSln.Service.csproj.CoreCompileInputs.cache
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\obj\Debug\SampleSln.Service.csproj.CopyComplete
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\obj\Debug\SampleSln.Service.dll
+C:\Git\git-vs-sln-sample\Service\SampleSln.Service\obj\Debug\SampleSln.Service.pdb
