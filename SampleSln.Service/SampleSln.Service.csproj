@@ -83,7 +83,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Biz\SampleSln.Biz\SampleSln.Biz.csproj">
+    <ProjectReference Include="..\..\samplesln-biz\SampleSln.Biz\SampleSln.Biz.csproj">
       <Project>{6f3dd811-0d55-4956-a394-58d3287ca3f9}</Project>
       <Name>SampleSln.Biz</Name>
     </ProjectReference>
